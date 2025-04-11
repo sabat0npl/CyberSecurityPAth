@@ -1,4 +1,4 @@
-# 🛡️ Plan Nauki CyberSecurity – 2024
+# 🛡️ Plan Nauki CyberSecurity – 2025
 
 Plan opracowany dla osoby z ukończonym bootcampem Full Stack Web Developer (CareerFoundry, 2021), po technikum informatycznym. Celem jest wejście do branży CyberSecurity – od podstaw do pierwszego certyfikatu lub praktyk.
 
