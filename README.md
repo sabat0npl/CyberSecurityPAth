@@ -68,6 +68,127 @@ Plan opracowany dla osoby z ukończonym bootcampem Full Stack Web Developer (Car
 | CompTIA Security+ | CompTIA | **~340 €** | [Link](https://www.comptia.org/certifications/security) |
 | Google Cybersecurity Certificate | Coursera | **~36 €/mies.** | [Link](https://www.coursera.org/professional-certificates/google-cybersecurity) |
 
+
+# 🛡️ Ścieżka Nauki Cyberbezpieczeństwa – Kompletny Plan
+
+Plan opracowany dla osób z doświadczeniem w IT, chcących rozpocząć karierę w dziedzinie Cyberbezpieczeństwa. Zawiera darmowe kursy i materiały edukacyjne w języku angielskim.
+
+---
+
+## 📘 Moduł 1: Wprowadzenie do Cyberbezpieczeństwa
+
+- **Historia cyberbezpieczeństwa**
+  - [Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security) – FutureLearn
+
+- **Podatności, zagrożenia i luki bezpieczeństwa**
+  - [Cybersecurity Basics](https://www.coursera.org/learn/cyber-security-basics) – Coursera
+
+- **Zagrożenia związane z niebezpiecznymi ustawieniami**
+  - [Cybersecurity for Business](https://www.edx.org/course/cybersecurity-for-business) – edX
+
+- **Podstawy cyberbezpieczeństwa i jak się chronić**
+  - [Cybersecurity Essentials](https://www.netacad.com/courses/cybersecurity/essentials) – Cisco Networking Academy
+
+---
+
+## 🕵️‍♂️ Moduł 2: Zagrożenia Cybernetyczne
+
+- **Phishing – zagrożenia i metody obrony**
+  - [Phishing Attacks and Defenses](https://www.cybrary.it/course/phishing-attacks-and-defenses/) – Cybrary
+
+- **Malware – rodzaje i jak się przed nimi bronić**
+  - [Malware Analysis and Detection](https://www.cybrary.it/course/malware-analysis-and-detection/) – Cybrary
+
+- **Ataki DDoS – historia i konsekwencje**
+  - [Understanding DDoS Attacks](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/) – Cloudflare Learning Center
+
+- **Analiza przypadków ataków cybernetycznych**
+  - [Cybersecurity Case Studies](https://www.coursera.org/learn/cybersecurity-case-studies) – Coursera
+
+---
+
+## 🏢 Moduł 3: Cyberbezpieczeństwo w Biznesie
+
+- **Cyberbezpieczeństwo jako fundament biznesu**
+  - [Cybersecurity for Business](https://www.edx.org/course/cybersecurity-for-business) – edX
+
+- **Triada CIA w cyberbezpieczeństwie**
+  - [Information Security: Context and Introduction](https://www.futurelearn.com/courses/introduction-to-information-security) – FutureLearn
+
+- **Spójność danych i jej znaczenie w bezpieczeństwie**
+  - [Data Integrity and Protection](https://www.coursera.org/learn/data-integrity) – Coursera
+
+- **Zapewnienie dostępności systemów IT**
+  - [IT Infrastructure and Emerging Trends](https://www.coursera.org/learn/it-infrastructure) – Coursera
+
+- **Uwierzytelnianie i autoryzacja**
+  - [Authentication and Authorization](https://www.coursera.org/learn/authentication-authorization) – Coursera
+
+- **Rozliczalność i niezaprzeczalność w systemach informatycznych**
+  - [Cybersecurity and Its Ten Domains](https://www.coursera.org/learn/cyber-security-domain) – Coursera
+
+---
+
+## 🖥️ Moduł 4: Systemy Operacyjne i Sieci
+
+- **Bezpieczeństwo systemu Windows**
+  - [Windows Security](https://www.microsoft.com/en-us/learning/windows-security.aspx) – Microsoft Learn
+
+- **Wprowadzenie do systemu Linux**
+  - [Introduction to Linux](https://www.edx.org/course/introduction-to-linux) – edX
+
+- **Różnice w mechanizmach bezpieczeństwa Windows vs. Linux**
+  - [Operating Systems and You: Becoming a Power User](https://www.coursera.org/learn/os-power-user) – Coursera
+
+- **Sieci komputerowe: Podstawy i Protokoły**
+  - [Computer Networking](https://www.coursera.org/learn/computer-networking) – Coursera
+
+- **Topologie sieciowe i urządzenia sieciowe**
+  - [Networking Basics](https://www.netacad.com/courses/packet-tracer) – Cisco Networking Academy
+
+- **Typy aplikacji komputerowych na przykładzie systemów operacyjnych**
+  - [Operating Systems and You: Becoming a Power User](https://www.coursera.org/learn/os-power-user) – Coursera
+
+---
+
+## ☁️ Moduł 5: Chmura, On-Premise i Ich Ochrona
+
+- **Wprowadzenie do infrastruktury IT**
+  - [IT Infrastructure and Emerging Trends](https://www.coursera.org/learn/it-infrastructure) – Coursera
+
+- **Wprowadzenie do chmury obliczeniowej**
+  - [Cloud Computing Basics](https://www.coursera.org/learn/cloud-computing-basics) – Coursera
+
+- **Modele usług chmurowych – co musisz wiedzieć?**
+  - [Cloud Computing Concepts](https://www.coursera.org/learn/cloud-computing) – Coursera
+
+- **Bezpieczeństwo w erze cyfrowej: Kluczowe wytyczne i narzędzia**
+  - [Cloud Security Basics](https://www.coursera.org/learn/cloud-security-basics) – Coursera
+
+- **Analiza dostawców chmurowych dla różnych branż**
+  - [Cloud Computing Applications](https://www.coursera.org/learn/cloud-computing-applications) – Coursera
+
+- **Planowanie aplikacji w chmurze – estymacja kosztów usług chmurowych**
+  - [AWS Cloud Practitioner Essentials](https://www.aws.training/Details/Curriculum?id=20685) – AWS Training
+
+- **Wprowadzenie do Terraform i konfiguracja EC2 w chmurze**
+  - [Infrastructure as Code](https://www.coursera.org/learn/infrastructure-as-code) – Coursera
+
+- **Skanowanie bezpieczeństwa systemów operacyjnych z użyciem Nessusa**
+  - [Vulnerability Assessment and Management](https://www.coursera.org/learn/vulnerability-assessment) – Coursera
+
+---
+
+## ⚖️ Moduł 6: Ramy Prawne i Standardy
+
+- **Wprowadzenie do standardów ISO 27001 i 27002**
+  - [ISO/IEC 27001 Information Security Management](https://www.udemy.com/course/iso-27001-information-security-management-system/) – Udemy (darmowe z kuponami)
+
+
+::contentReference[oaicite:0]{index=0}
+ 
+
+
 ---
 
 ## 💬 Co dalej? Jak przygotować się do pierwszej pracy?
